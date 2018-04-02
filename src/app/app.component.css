@@ -1,0 +1,24 @@
+* {
+  font-size: 14px;
+}
+
+.editor {
+  height: 90vh;
+  width: 50%;
+}
+
+#previewFrame {
+  border: 1px solid red;
+}
+
+#preview {
+  display: inline-block;
+  width: 49%;
+  height: 90vh;
+}
+
+button {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid;
+}
